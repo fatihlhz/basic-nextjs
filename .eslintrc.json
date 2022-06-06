@@ -5,9 +5,7 @@
     },
     "extends": [
         "plugin:react/recommended",
-        "airbnb",
-        "plugin:@next/next/recomended",
-        "prettier"
+        "airbnb"
     ],
     "parser": "@typescript-eslint/parser",
     "parserOptions": {
